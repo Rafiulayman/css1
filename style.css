@@ -1,0 +1,31 @@
+ 
+h1{
+    color: green;
+   
+  }
+h2 {
+      border:10px dashed;
+      border-width:10px; 
+      border-style:solid;
+      border-color:red;
+  }
+h3{
+    font-size: 50px;
+}
+.box{ width:200px;
+      height:200px;
+}
+.green{
+    background-color: green;
+}
+.orange{
+    background-color: orange;
+    padding: 10px;
+    border: 10px;
+    margin: 50px;
+}
+
+
+
+
+
